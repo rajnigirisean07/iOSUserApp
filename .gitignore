@@ -22,6 +22,18 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 
+## Various settings
+!xcshareddata
+!xcschemes
+
+## OS X temporary files
+.DS_Store
+*.swp
+profile
+
+## Xcode temporary files
+*~.nib
+
 ## Obj-C/Swift specific
 *.hmap
 
